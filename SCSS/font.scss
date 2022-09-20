@@ -1,0 +1,23 @@
+$color-font:#fbfff1;
+$color-hover:#c83e4d;
+*{
+    color:$color-font;
+}
+// navbar
+.textoto{
+    a{text-decoration: none;
+    color:$color-font;
+    margin-top:1%;
+    margin-bottom: 1%;}
+}
+
+// titulo
+.disenio{
+    margin-top: 30px;
+    color:$color-font;
+}
+h1{
+    color:$color-font;
+}
+
+
